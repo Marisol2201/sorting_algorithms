@@ -1,2 +1,3 @@
-# sorting_algorithms
-Space and time Big-O complexities of common algorithms used in Computer Science
+# Repository for project 0x1B. C - Sorting algorithms & Big O
+
+This project allow to understand the Big O Notation, time of complexity and how to select the best sorting algorithm for a given input.
