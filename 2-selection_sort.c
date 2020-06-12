@@ -10,25 +10,25 @@
 
 void selection_sort(int *array, size_t size)
 {
-    size_t i = 0, j = 0, minimum, temp;
+	size_t i = 0, j = 0, minimum, temp;
 
-    /*reduces the effective size of the array by one in  each iteration*/
-    for (i = 0; i < size - 1; i++)
+	/*reduces the effective size of the array by one in  each iteration*/
+	for (i = 0; i < size - 1; i++)
 	{
 		/*assuming the first element to be the minimum of the unsorted array*/
-        minimum = i;
-        /*gives the effective size of the unsorted array*/
+		minimum = i;
+		/*gives the effective size of the unsorted array*/
 		for (j = i + 1; j < size; j++)
 		{
-            /*finds the minimum element*/
+			/*finds the minimum element*/
 			if (array[j] < array[minimum])
-                minimum = j;
+				minimum = j;
 			/*swap the elements*/
 			{
 				temp = array[i];
-			    array[i] = array[minimum];
-			    array[minimum] = temp;
-                print_array(array, size);
+				array[i] = array[minimum];
+				array[minimum] = temp;
+				print_array(array, size);
 			}
 		}
 	}
