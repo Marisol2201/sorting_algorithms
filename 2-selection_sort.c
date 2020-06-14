@@ -12,9 +12,6 @@ void selection_sort(int *array, size_t size)
 {
 	size_t i = 0, j = 0, minimum, temp;
 
-	if (size < 2)
-		return;
-
 	/*reduces the effective size of the array by one in  each iteration*/
 	for (i = 0; i < size - 1; i++)
 	{
