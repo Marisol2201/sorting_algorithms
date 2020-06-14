@@ -23,13 +23,14 @@ void selection_sort(int *array, size_t size)
 			/*finds the minimum element*/
 			if (array[j] < array[minimum])
 				minimum = j;
+		}
+		if (minimum != i)
+		{
 			/*swap the elements*/
-			{
-				temp = array[i];
-				array[i] = array[minimum];
-				array[minimum] = temp;
-				print_array(array, size);
-			}
+			temp = array[i];
+			array[i] = array[minimum];
+			array[minimum] = temp;
+			print_array(array, size);
 		}
 	}
 }
