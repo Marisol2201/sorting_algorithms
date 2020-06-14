@@ -74,6 +74,9 @@ void quick_recursion(int *array, size_t low, size_t high, size_t size)
 {
 	size_t idx;
 
+	if (size < 2)
+		return;
+
 	if (low < high)
 	{
 		/*idx is partitioning index, "arr[p]" is now at right place*/
