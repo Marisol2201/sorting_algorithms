@@ -32,12 +32,12 @@ What you should learn from this project:
 * Write a function that sorts an array of integers in ascending order using the Selection sort algorithm. (File: 2-selction_sort.c)
 * Write the big O notations of the time complexity of the Selection sort algorithm, in order: the best case, the average case y the worst case per line. (File: 2-O)
 
-### [3. Quick sort] (./3-quick_sort.c)
+### [3. Quick sort](./3-quick_sort.c)
 * Write a function that sorts an array of integers in ascending order using the Quick sort algorithm. (File: 3-quick_sort.c)
 * Write the big O notations of the time complexity of the Quick sort algorithm, in order: the best case, the average case y the worst case per line. (File: 3-O)
 
 ---
 
-## Author
+## Authors
 * **Marisol Ramirez Henao** - [Marisol2201](https://github.com/Marisol2201)
 * **Kimberly Hinostroza Acevedo** - [kimha1030](https://github.com/kimha1030)
