@@ -14,11 +14,9 @@ void shell_sort(int *array, size_t size)
 
 	if (array == NULL || size < 2)
 		return;
-
 	/*Calculate the interval used to compare*/
 	while (n < size / 3)
 		n = n * 3 + 1;
-
 	while (n > 0)
 	{
 		i = n;
