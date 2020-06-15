@@ -4,10 +4,10 @@ This project allowed us to understand the Big O Notation, time of complexity and
 
 ## Resources:books:
 Read or watch:
-* [Sorting algorithm] (https://intranet.hbtn.io/rltoken/tmzgO7xhCpNgPUxVhLKibw)
-* [Big O notation] (https://intranet.hbtn.io/rltoken/XrLMaOhUMHfwsFEz15TVow)
-* [Sorting algorithms animations] (https://intranet.hbtn.io/rltoken/kJ7rgWoqdLnxSnSEoAiFCQ)
-* [15 sorting algorithms in 6 minutes] (https://intranet.hbtn.io/rltoken/RdvoGNMTJ6Hq34aJ_HmCqA)
+* [Sorting algorithm](https://intranet.hbtn.io/rltoken/tmzgO7xhCpNgPUxVhLKibw)
+* [Big O notation](https://intranet.hbtn.io/rltoken/XrLMaOhUMHfwsFEz15TVow)
+* [Sorting algorithms animations](https://intranet.hbtn.io/rltoken/kJ7rgWoqdLnxSnSEoAiFCQ)
+* [15 sorting algorithms in 6 minutes](https://intranet.hbtn.io/rltoken/RdvoGNMTJ6Hq34aJ_HmCqA)
 
 ---
 ## Learning Objectives:bulb:
