@@ -29,5 +29,8 @@ void swap(int *array, int i, int j);
 void quick_recursion(int *array, size_t low, size_t high, size_t size);
 void shell_sort(int *array, size_t size);
 void shell_sort(int *array, size_t size);
+void cocktail_sort_list(listint_t **list);
+size_t listint_len(const listint_t *h);
+void prove_list(listint_t **list);
 
 #endif
