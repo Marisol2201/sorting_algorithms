@@ -1,7 +1,7 @@
 # 0x1B. C - Sorting algorithms & Big O
-
 This project allowed us to understand the Big O Notation, time of complexity and how to select the best sorting algorithm for a given input.
 
+--
 ## Resources:books:
 Read or watch:
 * [Sorting algorithm](https://intranet.hbtn.io/rltoken/tmzgO7xhCpNgPUxVhLKibw)
@@ -12,14 +12,12 @@ Read or watch:
 ---
 ## Learning Objectives:bulb:
 What you should learn from this project:
-
 * Understand at least four different sorting algorithms
 * What is the Big O notation, and how to evaluate the time complexity of an algorithm
 * How to select the best sorting algorithm for a given input
 * What is a stable sorting algorithm
 
 ---
-
 ### [0. Bubble sort](./0-bubble_sort.c)
 * Write a function that sorts an array of integers in ascending order using the Bubble sort algorithm. (File: 0-bubble_sort.c)
 * Write the big O notations of the time complexity of the Bubble sort algorithm, in order: the best case, the average case y the worst case per line. (File: 0-O)
@@ -36,8 +34,14 @@ What you should learn from this project:
 * Write a function that sorts an array of integers in ascending order using the Quick sort algorithm. (File: 3-quick_sort.c)
 * Write the big O notations of the time complexity of the Quick sort algorithm, in order: the best case, the average case y the worst case per line. (File: 3-O)
 
----
+### [4. Shell sort - Knuth Sequence](./100-shell_sort.c)
+* Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence. (File: 100-shell_sort.c)
 
+### [5. Cocktail shaker sort](./101-cocktail_sort.c)
+* Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm. (File: 101-cocktail_sort.c)
+* Write the big O notations of the time complexity of the Quick sort algorithm, in order: the best case, the average case y the worst case per line. (File: 101-O)
+
+---
 ## Authors
 * **Marisol Ramirez Henao** - [Marisol2201](https://github.com/Marisol2201)
 * **Kimberly Hinostroza Acevedo** - [kimha1030](https://github.com/kimha1030)
