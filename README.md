@@ -1,7 +1,7 @@
 # 0x1B. C - Sorting algorithms & Big O
 This project allowed us to understand the Big O Notation, time of complexity and how to select the best sorting algorithm for a given input.
 
---
+---
 ## Resources:books:
 Read or watch:
 * [Sorting algorithm](https://intranet.hbtn.io/rltoken/tmzgO7xhCpNgPUxVhLKibw)
@@ -39,7 +39,7 @@ What you should learn from this project:
 
 ### [5. Cocktail shaker sort](./101-cocktail_sort.c)
 * Write a function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm. (File: 101-cocktail_sort.c)
-* Write the big O notations of the time complexity of the Quick sort algorithm, in order: the best case, the average case y the worst case per line. (File: 101-O)
+* Write the big O notations of the time complexity of the Cocktail shaker sort algorithm, in order: the best case, the average case y the worst case per line. (File: 101-O)
 
 ---
 ## Authors
